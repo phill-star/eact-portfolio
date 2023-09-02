@@ -3,7 +3,7 @@ import {NavLink} from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css'
 
 const navStyle = {
-  color: 'red'
+  color: 'white'
 }
 
 const activeLink = {
@@ -56,5 +56,4 @@ function Navigation(props) {
   }
   
   export default Navigation;
-  
   
