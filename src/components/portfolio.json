@@ -1,0 +1,73 @@
+[
+    {
+    "id": 1,
+    "name": "Pet-Search App",
+    "image": "https://raw.githubusercontent.com/guymorganb/Pet-Search/main/assets/secondaryAssests/SearchPage.png",
+    "github": "https://github.com/guymorganb/Pet-Search",
+    "deploy": "https://guymorganb.github.io/Pet-Search/",
+    "technologies": "RESTful APIs, bootstrap(CSS Framework), HTML, LocalStorage"
+    },
+    {
+        "id": 2,
+        "name": "Tech Blog",
+        "image": "https://user-images.githubusercontent.com/130422301/258960231-9c11195f-0474-4bb7-a3a1-b5e9bb6741cf.png",
+        "github": "https://github.com/phill-star/MVC-tech",
+        "deploy": "https://mohamed-blog-post-9bb2ec6e02d8.herokuapp.com",
+        "technologies": "node-js, indexedDB, webpack plugins, serviceWorkers"
+    },
+    {
+        "id": 3,
+        "name": "express-note-taker",
+        "image": "https://user-images.githubusercontent.com/130422301/250370646-cfe58568-18aa-4cc1-bf4f-e2f169278b11.png",
+        "github": "https://github.com/phill-star/express-note-taker",
+        "deploy": " https://mohamed-notetaker-40c450c99a1f.herokuapp.com",
+        "technologies": "node-js, express-js, API routing"
+    },
+    {
+        "id": 4,
+        "name": "Ecomm-backned",
+        "image": "https://user-images.githubusercontent.com/130422301/265206887-803554a1-d00d-46e0-9fb6-06cdea74aac4.png",
+        "github": "https://github.com/phill-star/Ecomm-backned",
+        "deploy": "https://drive.google.com/file/d/169F2O-sU4nHuefMByUJvivYU_xHtWPaj/view?usp=drive_link",
+        "technologies": "node-js, express-js, sequelize, mysql"
+    },
+    {
+        "id": 5,
+        "name": "date-organizer",
+        "image": "https://user-images.githubusercontent.com/130422301/239109620-dd756888-8488-41a3-837b-69ac2a03e3ce.pngg",
+        "github": "https://github.com/phill-star/date-organizer",
+        "deploy": "https://phill-star.github.io/date-organizer/",
+        "technologies": "third_party-Api, script, API routing"
+    },
+    {
+        "id": 6,
+        "name": "Employee-Manager",
+        "image": "https://user-images.githubusercontent.com/130422301/265206965-8fe68915-f2dd-4eb0-9eda-e21cfd23d25b.png",
+        "github": "https://github.com/phill-star/Employee-Manager",
+        "deploy": "https://drive.google.com/file/d/1u3RbBk0TUYQAfXYgLMuo7iY-nL73BoAP/view?usp=drive_link",
+        "technologies": "node-js, mysql, inquirer"
+    },
+    {
+        "id": 7,
+        "name": "weather-widget",
+        "image": "https://user-images.githubusercontent.com/130422301/241113871-c29a3540-7ec3-4dd8-befe-00034f7b66ed.png",
+        "github": "https://github.com/phill-star/weather-widget",
+        "deploy": "https://phill-star.github.io/weather-widget/",
+        "technologies": "node-js, mysql, inquirer"
+    }, {
+        "id": 8,
+        "name": "logo-generate",
+        "image": "https://user-images.githubusercontent.com/130422301/265207486-1b8a2cc4-9ba4-42b3-bdc6-1eff76bd78eb.png",
+        "github": "https://github.com/phill-star/logo-generate",
+        "deploy": " https://drive.google.com/file/d/1-4-edjiMrmYXrtySnb74SuKH6WGHLY4G/view",
+        "technologies": "node-js, mysql, inquirer"
+    }
+    , {
+        "id": 9,
+        "name": "Master-Minds",
+        "image": "https://user-images.githubusercontent.com/130422301/237873450-ea62514d-8fd4-4fc4-b082-0e0f22906f59.png",
+        "github": "https://github.com/phill-star/Master-Minds",
+        "deploy": "https://phill-star.github.io/Master-Minds/",
+        "technologies": "script, css, HTML"
+    }
+]
