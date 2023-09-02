@@ -34,7 +34,7 @@
     {
         "id": 5,
         "name": "date-organizer",
-        "image": "https://user-images.githubusercontent.com/130422301/239109620-dd756888-8488-41a3-837b-69ac2a03e3ce.pngg",
+        "image": "https://user-images.githubusercontent.com/130422301/239109620-dd756888-8488-41a3-837b-69ac2a03e3ce.png",
         "github": "https://github.com/phill-star/date-organizer",
         "deploy": "https://phill-star.github.io/date-organizer/",
         "technologies": "third_party-Api, script, API routing"
