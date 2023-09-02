@@ -7,12 +7,17 @@ const info = {
 }
 
 const titleStyle = {
-    backgroundColor: 'red',
-    padding: '10px'
+    backgroundColor: 'gray',
+    padding: '10px',
+    color: 'white',
 }
 
-const linkStyle = {
-    color: 'red',
+const yellowLinkStyle = {
+    color: 'yellow', 
+}
+
+const greenLinkStyle = {
+    color: 'green', 
 }
 
 function ProjectCards(props) {
@@ -24,13 +29,13 @@ function ProjectCards(props) {
                 <h2 className="projectTitle" id="projectTitle" style={titleStyle}>{props.name}</h2>
 
                 <div className="img-container">
-                <img class="projectImage" alt={props.name} src={props.image}/>
+                    <img className="projectImage" alt={props.name} src={props.image}/>
                 </div>
 
                 <p className="projectInfo" id="projectInfo" style={info}>
-                <button class="btn btn-dark"><a href={props.deploy} style={linkStyle}>Deployed Application</a></button>
-                <br></br>
-                <button class="btn btn-dark"><a href={props.github} style={linkStyle}>Application Repository</a></button>
+                    <button className="btn btn-dark"><a href={props.deploy} style={greenLinkStyle}>Deployed Application</a></button>
+                    <br></br>
+                    <button className="btn btn-dark"><a href={props.github} style={yellowLinkStyle}>Application Repository</a></button>
                 </p>
                 <p className="technologies">
                     <h4>Techologies Used: </h4>
