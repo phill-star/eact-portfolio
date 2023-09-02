@@ -5,7 +5,7 @@ const imgStyle = {
 }
 
 const linkStyle = {
-    color: 'red'
+    color: 'blue'
 }
 
 function About() {
