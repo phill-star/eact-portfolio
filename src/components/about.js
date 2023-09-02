@@ -12,12 +12,13 @@ function About() {
     return(
         <div class="jumbotron">
   <h1 class="display-4">About Me</h1>
-  <img class="headshot" src="https://github.com/aungy5/react-portfolio/raw/main/public/images/headshot.jpeg" alt="headshot" style={imgStyle}></img>
-  <p class="lead">Dedicated Tech Professional with experience in web applications and production support. Recognized as a proactive, resourceful, and persistent problem-solver. Excellent communicator with effective client relationship-management skills. Graduate of Syracuse University with a BA in Economics. Will graduate from the University of Pennsylvania with a certificate in full stack web development in November of 2021.</p>
+  <img class="headshot" src="https://github.com/phill-star/Mohameds-portfolio/assets/130422301/532a1067-1679-4f2c-b27a-42ab6fbef4ac" alt="headshot" style={imgStyle}></img>
+  <p class="lead">"Experienced and dedicated tech professional with a strong background in web applications and production support spanning over a year. Known for being proactive, resourceful, and persistent in tackling challenges. Adept at effective communication and skilled in client relationship management.
+    Education includes a Bachelor of Arts in Psychology from Metropolitan State University, Minnesota. Additionally, I am in the process of completing a certificate in full-stack web development at the University of Denver Colorado, with an expected completion date in October 2023."..</p>
   <hr class="my-4"></hr>
   <p></p>
   <p class="lead">
-  <button type="button" class="btn btn-dark"><a href="https://docs.google.com/document/d/e/2PACX-1vS1sb1ENhpV3Qd6q3jYfIkbGUKogv02R36VyANqCtuNFK4Xtb166H1fDrKK8HkDcrjkzKQXRZaTv7UU/pub
+  <button type="button" class="btn btn-dark"><a href="https://profile.indeed.com/document/view
            " style={linkStyle}>View Full Resume</a></button>
   </p>
 </div>
