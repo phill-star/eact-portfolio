@@ -2,12 +2,12 @@ import React, { useState } from 'react';
 import { validateEmail } from '../utils/validateEmail'
 
 const titleStyle = {
-  backgroundColor: 'red',
+  backgroundColor: 'gray',
   padding: '20px'
 }
 
 const linkStyle = {
-  color: 'red',
+  color: 'white',
 }
 
 const padding = {
@@ -16,7 +16,7 @@ const padding = {
 
 const errorStyle = {
   backgroundColor: 'black',
-  color: 'red'
+  color: 'gray'
 }
 
 function Contact() {
