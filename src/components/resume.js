@@ -1,7 +1,7 @@
 import React from 'react';
 
 const linkStyle = {
-  color: 'red',
+  color: 'white',
   padding: '20px'
 }
 
@@ -10,7 +10,7 @@ const padding = {
 }
 
 const titleStyle = {
-  backgroundColor: 'red',
+  backgroundColor: 'gray',
   padding: '20px'
 }
 
