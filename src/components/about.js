@@ -13,8 +13,7 @@ function About() {
         <div class="jumbotron">
   <h1 class="display-4">About Me</h1>
   <img class="headshot" src="https://github.com/phill-star/react-portfolio/assets/130422301/a9998c58-3da1-4cfa-9f28-8b6030f46fcb" alt="headshot" style={imgStyle}></img>
-  <p class="lead">"Experienced and dedicated tech professional with a strong background in web applications and production support spanning over a year. Known for being proactive, resourceful, and persistent in tackling challenges. Adept at effective communication and skilled in client relationship management.
-    Education includes a Bachelor of Arts in Psychology from Metropolitan State University, Minnesota. Additionally, I am in the process of completing a certificate in full-stack web development at the University of Denver Colorado, with an expected completion date in October 2023."..</p>
+  <p class="lead">"In my journey as a developer, I have continually sought opportunities for growth and learning. With each project I undertake, I not only aim to deliver high-quality solutions but also to push the boundaries of my own knowledge and skill set. This commitment to personal and professional development has led me to explore new horizons in the tech world. I'm deeply intrigued by the ever-evolving landscape of cybersecurity and its critical role in safeguarding digital assets. This dedication to staying at the forefront of technology is a testament to my proactive, resourceful, and persistent approach in tackling challenges. As I embark on this exciting journey into cybersecurity through enrollment in a specialized bootcamp, I'm eager to merge my existing expertise with the specialized knowledge I'll gain, creating a unique blend of skills that will set me apart in the field."</p>
   <hr class="my-4"></hr>
   <p></p>
   <p class="lead">
