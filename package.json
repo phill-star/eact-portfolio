@@ -1,5 +1,6 @@
 {
   "name": "my-react-app",
+  "homepage": "https://phill-star.github.io/react-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -15,7 +16,6 @@
     "webpack": "^5.88.2"
   },
   "scripts": {
-    "homepage": "https://phill-star.github.io/react-portfolio",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
